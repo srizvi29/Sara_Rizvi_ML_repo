@@ -1,1 +1,8 @@
-
+Packages used
+numpy
+pandas
+tensorflow
+scikit
+seaborn
+matplotlib
+sklearn
